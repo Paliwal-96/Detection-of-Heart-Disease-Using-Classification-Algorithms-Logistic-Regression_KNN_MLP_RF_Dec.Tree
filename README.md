@@ -1,4 +1,6 @@
 Detection-of-Heart-Disease-Using-Classification-Algorithms-Logistic-Regression_KNN_MLP_RF_Dec.Tree
+
+
 This is a Machine Learning project for the detection of the heart diseases using the Classification Algorithms approach based on the standard dataset taken from the Kaggle
 
 
@@ -15,19 +17,33 @@ Overall process of predicting heart disease carries following procedure:
 
 	Now the attributes which are used in this project are described as follows and for what they are used or resemble:
 (i)Age—age of patient in years. 
+
 (ii)sex—(1 = male; 0 = female).
+
 (iii)Cp—chest pain type.
+
 (iv)Trestbps—resting blood pressure (in mm Hg on admission to the hospital). The normal range is 120/80 (if you have a normal blood pressure reading, it is fine, but if it is a little higher than it should be, you should try to lower it. Make healthy changes to your lifestyle).
+
 (v)Chol—serum cholesterol shows the amount of triglycerides present. Triglycerides are another lipid that can be measured in the blood. It should be less than 170 mg/dL (may differ in different Labs).
+
 (vi)Fbs—fasting blood sugar larger than 120 mg/dl (1 true). Less than 100 mg/dL (5.6 mmol/L) is normal, and 100 to 125 mg/dL (5.6 to 6.9 mmol/L) is considered prediabetes.
+
 (vii)Restecg—resting electrocardiographic results.
+
 (viii)Thalach—maximum heart rate achieved. The maximum heart rate is 220 minus your age.
+
 (ix)Exang—exercise-induced angina (1 yes). Angina is a type of chest pain caused by reduced blood flow to the heart. Angina is a symptom of coronary artery disease.
+
 (x)Oldpeak—ST depression induced by exercise relative to rest.
+
 (xi)Slope—the slope of the peak exercise ST segment.
+
 (xii)Ca—number of major vessels (0–3) colored by fluoroscopy.
+
 (xiii)Thal—no explanation provided, but probably thalassemia (3 normal; 6 fixed defects; 7 reversible defects).
+
 (xiv)Target (T)—no disease = 0 and disease = 1, (angiographic disease status).
+
 
 
 **(iii.)  Data Preprocessing** 
